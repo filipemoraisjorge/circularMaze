@@ -1,9 +1,6 @@
 window.onload=function(){
 //// 0. Describe
 
-
-
-
 window.demoDescription = "implement DFS to create a maze and draw it in a circle";
 
 //// 1. Define Space and Form
