@@ -1,0 +1,22 @@
+{
+  "name": "maze_circular",
+  "version": "1.0.0",
+  "description": "Circular maze done with DFS and pt.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "../../.git"
+  },
+  "author": "Filipe Jorge",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~0.4.3",
+    "matchdep": "~0.3.0",
+    "grunt-express": "~1.2.1",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-open": "~0.2.3"
+  }
+}
